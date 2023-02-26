@@ -19,6 +19,7 @@ const Profile = ({ name, id, phone, email }) => {
         <p>Email : {email}</p>
         <p>Change is made</p>
       </div>
+	  <h1> Rebasing </h1>
     </>
   );
 };
