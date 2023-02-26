@@ -50,3 +50,17 @@ export default GetRqe;
 // Unstage Changes.
 // git reset HEAD <file>
 // git restore <file>  // to discard the changes in the working directory.
+
+// git log
+// tell history of what we have.
+// git log --patch
+// to get additional information about commits
+
+// exit the page with q
+
+// commiting a Folder
+//*// git only track files and dosenot track folders.
+// To detect(commit) a folder we should have files in it. so create empty file .gitkeep by commond
+// touch <folder>/.gitkeep  // create gitkeep file into the folder.
+// when we add and commit the folder it actually adds amd commits the file and not the folder.
+// .gitkeep file is to detect/track the folder.
