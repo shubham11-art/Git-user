@@ -108,3 +108,4 @@ export default GetRqe;
 //*// This is a simple merge or fast forward merge which means you are moving the commits of seperate branch on master branch. If changes is being made to the master then this fast forward merge wouldnt have been possible.
 
 // Merging a branch (Recursive merge - Advance Merging)
+// branch var commit kelyavar tila master barobar merge karaychya aadhi jar master var commit kel tar fast forward merger hot nahi tar recursive marge hoto which creates additional commit and history kharab hote so we have Rebasing concept.
