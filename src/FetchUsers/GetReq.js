@@ -65,10 +65,21 @@ export default GetRqe;
 // when we add and commit the folder it actually adds amd commits the file and not the folder.
 // .gitkeep file is to detect/track the folder.
 
+//*// touch <file>  // creat file
+//*// touch <folder>/<file>  // creact file in that folder.
+
 // Deleting Files
 // If untracked file run following commond to delete it
 // rm <file>
 // rm -rf -- <folder>
 
-// already staged/commited file jar delete karayachi asel tar commond 
-//
+// already staged/commited file jar delete karayachi asel tar commond => git commit
+// working directory varun remove karun bakichya files commit karayachya
+
+// .gitignore
+// Folder madhe ashya files aahet jya tumhala git chya part nahi banvaychya aahet tar kay karayach?
+// vim .gitignore
+// vim editor open hoil tyavar file, folder name lihayach ani ru commond
+// Esc :wq (save the files)
+
+// gitignore madhe basically local files, dependency valya files astat.
