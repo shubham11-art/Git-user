@@ -109,3 +109,6 @@ export default GetRqe;
 
 // Merging a branch (Recursive merge - Advance Merging)
 // branch var commit kelyavar tila master barobar merge karaychya aadhi jar master var commit kel tar fast forward merger hot nahi tar recursive marge hoto which creates additional commit and history kharab hote so we have Rebasing concept.
+
+// git rebase master // master branch varun commit ghenar ani jya branch varun commond run keli tya branch var taknar
+// This is how we rewrite the history, ki master ch commit aadhi zal aahe. ani brach ch commit nantar.
