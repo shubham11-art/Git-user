@@ -79,7 +79,32 @@ export default GetRqe;
 // .gitignore
 // Folder madhe ashya files aahet jya tumhala git chya part nahi banvaychya aahet tar kay karayach?
 // vim .gitignore
-// vim editor open hoil tyavar file, folder name lihayach ani ru commond
+// vim editor var lihinyasathi - press i => intsert the code => esc :wq to leave the vim editor
 // Esc :wq (save the files)
 
 // gitignore madhe basically local files, dependency valya files astat.
+
+// Creating a Brach
+// git branch // will show branches available.
+// To experiment with the code, with having git advantages.
+
+// git checkout -b feature/new-table
+// git checkout -b bugfixing/new-table
+
+// cat <file> // give the details in the file
+
+// switching branches
+// git checkout <name>
+
+//*// Merging a branch to master(Fast Forward Merge)
+//1. delete the branch
+// git branch -d <branch> // delete after merge
+// git branch -D <branch>
+
+//2. Merging
+// Be inside master then merge branch
+// On Master branch
+// git merge <branch>
+//*// This is a simple merge or fast forward merge which means you are moving the commits of seperate branch on master branch. If changes is being made to the master then this fast forward merge wouldnt have been possible.
+
+// Merging a branch (Recursive merge - Advance Merging)
