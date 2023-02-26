@@ -64,3 +64,11 @@ export default GetRqe;
 // touch <folder>/.gitkeep  // create gitkeep file into the folder.
 // when we add and commit the folder it actually adds amd commits the file and not the folder.
 // .gitkeep file is to detect/track the folder.
+
+// Deleting Files
+// If untracked file run following commond to delete it
+// rm <file>
+// rm -rf -- <folder>
+
+// already staged/commited file jar delete karayachi asel tar commond 
+//
