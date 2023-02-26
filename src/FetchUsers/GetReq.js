@@ -105,7 +105,7 @@ export default GetRqe;
 // Be inside master then merge branch
 // On Master branch
 // git merge <branch>
-//*// This is a simple merge or fast forward merge which means you are moving the commits of seperate branch on master branch. If changes is being made to the master then this fast forward merge wouldnt have been possible. 
+//*// This is a simple merge or fast forward merge which means you are moving the commits of seperate branch on master branch. If changes is being made to the master then this fast forward merge wouldnt have been possible.
 //*// Fast forward madhe braches che commit master var dhakalale jatat jase kay ekach branches var sagal kaam kelay. Pan recursive merging ne additional commits tayar hotat, disrupting the history.
 
 // Merging a branch (Recursive merge - Advance Merging)
