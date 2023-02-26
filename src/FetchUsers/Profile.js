@@ -17,6 +17,7 @@ const Profile = ({ name, id, phone, email }) => {
         </h4>
         <p>Phone :- {phone}</p>
         <p>Email : {email}</p>
+        <p>Change is made</p>
       </div>
     </>
   );

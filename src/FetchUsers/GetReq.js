@@ -40,3 +40,13 @@ export default GetRqe;
 // nothing to commit means you havent made any changes.
 
 // git commit - that is commiting purposefully, the file of which we want to keep history.
+
+// git add .  OR  git add --all
+
+// Why staging area is there??
+// We can choose which files to be commited and which do not. i.e aapan multiple files modify kelya aahet so tyatil kontya commit karayachya aani kontya nahi.
+// We can modifify them if want.
+
+// Unstage Changes.
+// git reset HEAD <file>
+// git restore <file>  // to discard the changes in the working directory.
